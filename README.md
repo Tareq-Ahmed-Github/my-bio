@@ -6,9 +6,9 @@ Welcome to the repository for My Bio! This repository contains a simple HTML web
 
 The HTML webpage in this repository displays the following information:
 
-- Name: Your Full Name
-- Email: your.email@example.com
-- GitHub: [GitHub Profile](https://github.com/your-github-username)
+- Name: Tareq Ahmed
+- Email: tareqrobin57@gmail.com
+- GitHub: [GitHub Profile](https://github.com/Tareq-Ahmed-Github)
 - Hobbies:
   - Hobby 1
   - Hobby 2
